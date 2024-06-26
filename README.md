@@ -1,8 +1,13 @@
 Примеры
+```
 ./keyhunt -m address -f tests/66.txt -b 66 -l compress -R -q -s 10 -t 6
+```
+```
 ./keyhunt -m address -f tests/30.txt -b 30 -l compress -R -q -s 10 -t 6
+```
+```
 ./keyhunt -m address -f tests/40.txt -b 40 -l compress -R -q -s 10 -t 6
-
+```
 
 
 
