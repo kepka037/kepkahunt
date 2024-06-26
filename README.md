@@ -16,7 +16,7 @@ git clone https://github.com/kepka037/kepkahunt.git /mnt/e/folder
 ```
 Вместо «e/folder» можно выбрать свой путь, куда будет сохранен репозиторий
 ```
-cd keyhunt
+cd /mnt/e/folder
 ```
 ```
 make
