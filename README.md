@@ -1,7 +1,4 @@
-Примеры
-```
-cd /mnt/e/folder
-```
+Тесты
 
 ```
 ./keyhunt -m address -f tests/66.txt -b 66 -l compress -R -q -s 10 -t 6
@@ -13,9 +10,18 @@ cd /mnt/e/folder
 ./keyhunt -m address -f tests/40.txt -b 40 -l compress -R -q -s 10 -t 6
 ```
 
-
-
-
+**Запуск**
+```
+git clone https://github.com/kepka037/kepkahunt.git /mnt/e/folder
+```
+Вместо «e/folder» можно выбрать свой путь, куда будет сохранен репозиторий
+```
+cd keyhunt
+```
+```
+make
+```
+Можно вводить команды!
 
 
 # keyhunt
