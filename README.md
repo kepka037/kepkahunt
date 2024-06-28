@@ -3,6 +3,9 @@
 ```
 ./keyhunt -m address -f tests/66.txt -b 66 -l compress -R -q -s 10 -t 6
 ```
+```
+./keyhunt -m address -f tests/66to68.txt -r 20000000000000000:100000000000000000 -l compress -R -q -s 10 -t 4
+```
 Я бы протестировал работу и сохранение на этой команде ↓
 ```
 ./keyhunt -m address -f tests/30.txt -b 30 -l compress -R -q -s 10 -t 6
