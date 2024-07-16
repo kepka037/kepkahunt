@@ -9,7 +9,7 @@
 
 Все биткоин адреса с балансом
 ```
-./keyhunt -m address -f tests/btc.txt -r 0:fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd036413b -l compress -R -q -s 10 -t 4
+./keyhunt -m address -f tests/btc.txt -r 0:fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141 -l compress -R -q -s 10 -t 4
 ```
 
 Я бы протестировал работу и сохранение на этой команде ↓
