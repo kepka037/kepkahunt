@@ -1,10 +1,10 @@
 Тесты
 
 ```
-./keyhunt -m address -f tests/66.txt -b 66 -l compress -R -q -s 10 -t 4
+./keyhunt -m address -f tests/67.txt -b 67 -l compress -R -q -s 10 -t 4
 ```
 ```
-./keyhunt -m address -f tests/66.txt -r 20000000000000000:3ffffffffffffffff -l compress -R -q -s 10 -t 4
+./keyhunt -m address -f tests/67.txt -r 40000000000000000:7ffffffffffffffff -l compress -R -q -s 10 -t 4
 ```
 
 Все биткоин адреса с балансом
